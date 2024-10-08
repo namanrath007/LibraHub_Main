@@ -39,12 +39,4 @@ Building a Solid and User-friendly platform for effectively managing a library's
 - Frontend: React.js
 - Backend: Node.js (Express.js)
 - Database: MongoDB
-- Styling: Tailwind CSS
 
-## Authors
-
-- [@Akshat-Somvanshi18](https://github.com/Akshat-Somvanshi18)
-- [@JaiBhalla03](https://github.com/JaiBhalla03)
-- [@AyaanAgarwal](https://github.com/AyaanAgarwal)
-- [@namanrath007](https://github.com/namanrath007)
-- [@mihirsen](https://github.com/mihirsen)
